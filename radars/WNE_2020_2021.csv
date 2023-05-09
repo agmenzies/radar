@@ -593,7 +593,7 @@ Java + Spring Boot,Backend,Invest,lock,"<p><a href=""https://spring.io/"">Java +
 <p>When decision made: 1/1/2020</p>
 <p>When decision will be revisited: 1/1/2022</p>
 "
-jMeter,Backend,Invest,confident,"<p><a href=""https://jmeter.apache.org/"">jMeter</a> is open source software, a 100% pure Java application designed to load test functional behavior and measure performance. It was originally designed for testing Web Applications but has since expanded to other test functions.</p>
+jMeter,Backend,Hold,confident,"<p><a href=""https://jmeter.apache.org/"">jMeter</a> is open source software, a 100% pure Java application designed to load test functional behavior and measure performance. It was originally designed for testing Web Applications but has since expanded to other test functions.</p>
 <h3>Pros</h3>
 <ul>
 <li>Open source</li>
@@ -605,8 +605,8 @@ jMeter,Backend,Invest,confident,"<p><a href=""https://jmeter.apache.org/"">jMete
 <li>UI is not very intuitive</li>
 <li>Can be very complex to set up</li>
 </ul>
-<p>When decision made: 1/1/2020</p>
-<p>When decision will be revisited: 1/1/2022</p>
+<p>When decision made: 1/1/2023</p>
+<p>When decision will be revisited: 1/1/2024</p>
 "
 gRPC,Backend,Trial,budding,"<p><a href=""https://grpc.io/"">gRPC</a> is a modern open source high performance RPC framework that can run in any environment. It can efficiently connect services in and across data centers with pluggable support for load balancing, tracing, health checking and authentication. It is also applicable in last mile of distributed computing to connect devices, mobile applications and browsers to backend services.</p>
 <h3>Pros</h3>
@@ -623,6 +623,22 @@ gRPC,Backend,Trial,budding,"<p><a href=""https://grpc.io/"">gRPC</a> is a modern
 <p>** Being considered for interservice communication requests</p>
 <p>When decision made: 1/1/2020</p>
 <p>When decision will be revisited: 1/1/2022</p>
+"
+ExcaliDraw,Infrastructure,Invest,budding,"<p><a href=""https://excalidraw.com/"">Excalidraw</a> is an open source virtual hand-drawn style whiteboard for building software diagrams.</p>
+<h3>Pros</h3>
+<ul>
+<li>Open Source</li>
+<li>Good Options for pre-made images</li>
+<li>Very visually appealing diagram generation</li>
+<li>Can export with metadata for easy import</li>
+</ul>
+<h3>Cons</h3>
+<ul>
+<li>No enterprise option</li>
+</ul>
+<p>** Being used for building software diagrams</p>
+<p>When decision made: 1/1/2023</p>
+<p>When decision will be revisited: 1/1/2024</p>
 "
 GraphQL,Backend,Trial,budding,"<p><a href=""https://graphql.org/"">GraphQL</a> is a query language for APIs and a runtime for fulfilling those queries with your existing data. GraphQL provides a complete and understandable description of the data in your API, gives clients the power to ask for exactly what they need and nothing more, makes it easier to evolve APIs over time, and enables powerful developer tools.</p>
 <h3>Pros</h3>
@@ -1749,7 +1765,7 @@ Octopus Deploy,Infrastructure,Divest,none,"<p><a href=""https://octopus.com/"">O
 <p>When decision made: 1/1/2020</p>
 <p>When decision will be revisited: 1/1/2022</p>
 "
-k6,Backend,Trial,budding,"<p><a href=""https://k6.io/"">k6</a> is a developer-centric, free and open-source load testing tool built for making performance testing a productive and enjoyable experience. It is written in Go and runs test scripts that are written in JavaScript.</p>
+k6,Backend,Invest,budding,"<p><a href=""https://k6.io/"">k6</a> is a developer-centric, free and open-source load testing tool built for making performance testing a productive and enjoyable experience. It is written in Go and runs test scripts that are written in JavaScript.</p>
 <h3>Pros</h3>
 <ul>
 <li>Test scripts are written in JavaScript.</li>
@@ -1761,9 +1777,9 @@ k6,Backend,Trial,budding,"<p><a href=""https://k6.io/"">k6</a> is a developer-ce
 <li>It does not render web pages.</li>
 <li>Including external Node.js modules requires extra effort to bundle, if needed.</li>
 </ul>
-<p>** Being considered as a replacement for <a href="""">jMeter</a>.</p>
-<p>When decision made: 11/2020</p>
-<p>When decision will be revisited: 11/2022</p>
+<p>** Currently replacing <a href="""">jMeter</a>.</p>
+<p>When decision made: 06/2023</p>
+<p>When decision will be revisited: 06/2024</p>
 "
 AWS CodePipeline,Infrastructure,Invest,budding,"<p><a href=""https://aws.amazon.com/codepipeline/"">AWS CodePipeline</a> is a fully managed continuous delivery service that helps you automate your release pipelines for fast and reliable application and infrastructure updates. CodePipeline automates the build, test, and deploy phases of your release process every time there is a code change, based on the release model you define. This enables you to rapidly and reliably deliver features and updates. You can easily integrate AWS CodePipeline with third-party services such as GitHub or with your own custom plugin.</p>
 <h3>Pros</h3>
