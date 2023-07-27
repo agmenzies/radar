@@ -883,8 +883,7 @@ OpenSearch,Data,Invest,confident,"<p><a href=""https://opensearch.org/"">OpenSea
 </ul>
 <h3>Cons</h3>
 <ul>
-<li>No ability to join documents directly</li>
-<li>Can be difficult to setup and maintain</li>
+<li>Query language can be difficult</li>
 </ul>
 <p>When decision made: 8/1/2023</p>
 <p>When decision will be revisited: 8/1/2024</p>
