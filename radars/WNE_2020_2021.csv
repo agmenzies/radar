@@ -858,7 +858,7 @@ DynamoDB,Data,Invest,lock,"<p>Dynamo is a NOSQL database hosted and manged by AW
 <li>Difficult to query ad-hoc</li>
 </ul>
 <p>Dynamo should be used by default for any microservice that is storing things as operational records that do not have heavy query requirements. For more information see <a href=""https://medium.com/imaginelearning/bring-dynamo-to-the-data-science-party-2d961b72bb8d?source=friends_link&amp;sk=5dd7bd16cbf678bb926122549d83cb4a"">This great Medium article</a></p>"
-Elasticsearch,Data,Invest,confident,"<p><a href=""https://elastic.co"">Elasticsearch</a> is a distributed, RESTful search and analytics engine capable of addressing a growing number of use cases. As the heart of the Elastic Stack, it centrally stores your data for lightning fast search, fine‑tuned relevancy, and powerful analytics that scale with ease.</p>
+Elasticsearch,Data,Hold,confident,"<p><a href=""https://elastic.co"">Elasticsearch</a> is a distributed, RESTful search and analytics engine capable of addressing a growing number of use cases. As the heart of the Elastic Stack, it centrally stores your data for lightning fast search, fine‑tuned relevancy, and powerful analytics that scale with ease.</p>
 <h3>Pros</h3>
 <ul>
 <li>Extremely efficient text searching</li>
@@ -870,8 +870,24 @@ Elasticsearch,Data,Invest,confident,"<p><a href=""https://elastic.co"">Elasticse
 <li>No ability to join documents directly</li>
 <li>Can be difficult to setup and maintain</li>
 </ul>
-<p>When decision made: 1/1/2020</p>
-<p>When decision will be revisited: 1/1/2021</p>
+<p>When decision made: 8/1/2023</p>
+<p>When decision will be revisited: 8/1/2024</p>
+"
+OpenSearch,Data,Invest,confident,"<p><a href=""https://opensearch.org/"">OpenSearch</a> is a distributed, RESTful search and analytics engine capable of addressing a growing number of use cases. It centrally stores your data for lightning fast search, fine‑tuned relevancy, and powerful analytics that scale with ease.</p>
+<h3>Pros</h3>
+<ul>
+<li>Extremely efficient text searching</li>
+<li>Great for simple metric aggregations</li>
+<li>Extremely fast response times</li>
+<li>Works well within AWS</li>
+</ul>
+<h3>Cons</h3>
+<ul>
+<li>No ability to join documents directly</li>
+<li>Can be difficult to setup and maintain</li>
+</ul>
+<p>When decision made: 8/1/2023</p>
+<p>When decision will be revisited: 8/1/2024</p>
 "
 Redis,Data,Invest,confident,"<p><a href=""https://redis.io/"">Redis</a> is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.</p>
 <h3>Pros</h3>
