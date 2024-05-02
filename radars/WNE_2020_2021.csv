@@ -17,6 +17,24 @@ When decision will be revisited: 01/01/2022</p>
 <p>When decision made: 5/1/2020</p>
 <p>When decision will be revisited: 5/1/2021</p>
 "
+Lexical,Frontend,Trial,lock,"<p><a href=""https://lexical.dev/"">Lexical</a> is an extensible text editor framework.</p>
+<h3>Pros</h3>
+<ul>
+<li>Simple, lightweight, and fast.</li>
+<li>Project backed by a massive community around it.</li>
+<li>Free to use</li>
+</ul>
+<h3>Cons</h3>
+<ul>
+<li>SOMEONE_INSERT_SOMETHING_HERE</li>
+<li>SOMEONE_INSERT_SOMETHING_HERE</li>
+</ul>
+<p>When decision made: 03/05/2024<br />
+When decision will be revisited: 01/01/2022</p>
+<p>Replaces <a href="""">Angular</a>.</p>
+<p>When decision made: 5/1/2024</p>
+<p>When decision will be revisited: 5/1/2028</p>
+"
 React Hooks,Frontend,Invest,confident,"<p><a href=""https://reactjs.org/docs/hooks-overview.html"">React Hooks</a> are functions that let you “hook into” React state and lifecycle features from function components.<br />
 React provides <a href=""https://reactjs.org/docs/hooks-reference.html"">a few built-in Hooks</a>, like <code>useState</code> for managing state, <code>useEffect</code> for performing side-effects.</p>
 <h3>Pros</h3>
