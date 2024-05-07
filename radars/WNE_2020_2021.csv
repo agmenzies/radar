@@ -17,7 +17,7 @@ When decision will be revisited: 01/01/2022</p>
 <p>When decision made: 5/1/2020</p>
 <p>When decision will be revisited: 5/1/2021</p>
 "
-Lexical,Frontend,Trial,lock,"<p><a href=""https://lexical.dev/"">Lexical</a> is an extensible text editor framework.</p>
+Lexical,Frontend,Invest,lock,"<p><a href=""https://lexical.dev/"">Lexical</a> is an extensible text editor framework.</p>
 <h3>Pros</h3>
 <ul>
 <li>Simple, lightweight, and fast.</li>
@@ -26,11 +26,9 @@ Lexical,Frontend,Trial,lock,"<p><a href=""https://lexical.dev/"">Lexical</a> is 
 </ul>
 <h3>Cons</h3>
 <ul>
-<li>SOMEONE_INSERT_SOMETHING_HERE</li>
-<li>SOMEONE_INSERT_SOMETHING_HERE</li>
+<li>Plugin ecosystem can be hard to navigate what to use.</li>
 </ul>
 <p>When decision made: 03/05/2024<br />
-When decision will be revisited: 01/01/2022</p>
 <p>Replaces <a href="""">CKEditor</a>.</p>
 <p>When decision made: 5/1/2024</p>
 <p>When decision will be revisited: 5/1/2028</p>
